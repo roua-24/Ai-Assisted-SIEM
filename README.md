@@ -101,4 +101,4 @@ Roua Jendoubi: ICT graduate (networks, security, applied AI). [GitHub](https://g
 
 ## License
 
-MIT (add a LICENSE file).
+MIT LICENSE.
