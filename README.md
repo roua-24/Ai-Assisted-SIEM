@@ -1,7 +1,7 @@
 # Ai-Assisted-SIEM
 # Wazuh SIEM Home Lab: Attack Detection, Splunk Dashboards and AI-Assisted Triage
 
-> **Status: in progress (started October 2026).** This README describes the architecture and the plan. Results, screenshots and incident reports are added to the repository as each phase is completed. Nothing in the results section is filled in until it has been measured.
+
 
 A virtual SOC lab built to practise the daily work of a junior security analyst: collecting logs, detecting attacks, triaging alerts (true positive vs. false positive), investigating, and documenting incidents. Everything runs on my own machines. All attacks are launched only against my own virtual machines, on an isolated network.
 
@@ -78,9 +78,6 @@ Filled in after each phase.
 |---|---|---|---|---|---|
 | | | | | | |
 
-## Lessons learned
-
-To be completed.
 
 ## Security and ethics
 
